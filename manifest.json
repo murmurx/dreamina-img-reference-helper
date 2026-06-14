@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Dreamina Img Ref Helper",
+  "version": "1.1",
+  "host_permissions": ["<all_urls>"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}
