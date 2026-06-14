@@ -1,7 +1,5 @@
 # Dreamina @img Reference Helper
 
-# Dreamina @img Reference Helper
-
 A lightweight Chrome extension that converts `@img1`, `@img2`, `@img3`, etc. placeholders into Dreamina reference image selections, including workflows where Seedance is accessed through Dreamina.
 
 ## ⚠️ Warning
